@@ -53,7 +53,6 @@ class Animal {
     }
   }
   
-  // Exemplo de uso das classes
   const bemTeVi = new BemTeVi();
   bemTeVi.nascer();
   bemTeVi.comer();
